@@ -1,4 +1,4 @@
-# Mathematics_For_Machine_Learning-Linear_Algebra
+# Mathematics For Machine Learning : Linear Algebra
 
 
 Coursera Course
